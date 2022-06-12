@@ -2,11 +2,10 @@
 <html>
 <title>Motorcycles</title>
 
-<?php $IPATH = "/home/dylanc/Documents/github.com/dylanchristopherson/server/assets/"; include($IPATH."nav.html"); ?>
-    <style>
-<?php include($IPATH."nav.css"); ?>
-    </style>
-
+<?php $IPATH = "/server/assets/"; include($IPATH."nav.html"); ?>
+<style>
+    <?php include($IPATH."nav.css"); ?>
+</style>
 
 <h1>Motorcycles</h1>
 

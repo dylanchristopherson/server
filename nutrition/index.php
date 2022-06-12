@@ -2,10 +2,16 @@
 <html>
 <title>Nutrition</title>
 
+<?php $IPATH = "/server/assets/"; include($IPATH."nav.html"); ?>
+<style>
+    <?php include($IPATH."nav.css"); ?>
+</style>	
+
 <h1>Nutrition calculator</h1>
 
 <!--So, the $_SERVER["PHP_SELF"] sends the submitted form data to the page itself, instead of jumping to a different page. This way, the user will get error messages on the same page as the form.(Used for input validation - https://www.w3schools.com/php/php_form_validation.asp)-->
 <!--<form action="action_page.php" method="post">-->
+
 
 
 <?php
