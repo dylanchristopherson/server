@@ -7,14 +7,7 @@
 
 <body>
 
-<div class="navbar">
-  <a href="#home">Home</a>
-  <a href="#news">Motorcycles</a>
-  <a href="#contact">Books</a>
-</div>
-
-
-<h1>2001 Suzuki Intruder 2001</h1>
+<h1>2001 Suzuki Intruder 1400</h1>
 
 <p1>Second bike that was purchased in 2017<br/></p1>
 
