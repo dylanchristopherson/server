@@ -4,6 +4,12 @@
 <head>
 	<title>Yamaha fz07</title>
 </head>
+
+<?php $IPATH = "/server/assets/"; include($IPATH."nav.html"); ?>
+<style>
+    <?php include($IPATH."nav.css"); ?>
+</style>
+
 <body>
 
 <h1>2016 Yamaha fz07</h1>
