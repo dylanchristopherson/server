@@ -36,6 +36,7 @@
         <li><a href="books/index.php">Books</a></li>
         <li><a href="consumerism/index.php">Consumerism</a></li>
         <li><a href="nutrition/index.php">Nutrition</a></li>
+        <li><a href="chess/index.php">Chess</a></li>
     </ul>
 
 </body>
