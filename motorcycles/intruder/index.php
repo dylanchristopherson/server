@@ -5,6 +5,11 @@
   <link rel="stylesheet" href="nav.css">
 </head>
 
+<?php $IPATH = "/server/assets/"; include($IPATH."nav.html"); ?>
+<style>
+    <?php include($IPATH."nav.css"); ?>
+</style>
+
 <body>
 
 <h1>2001 Suzuki Intruder 1400</h1>
