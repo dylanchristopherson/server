@@ -18,5 +18,11 @@
 
 <img src="../../images/yamaha.jpg">
 
+<br>
+<p1>It was sadly sold in 2023</p1>
+
+<br>
+<p1>Luckily, I bought it for $5000, added 6000 miles on, and then sold it for $5500! Can't complain about that...</p1>
+
 </body>
 </html>
