@@ -13,12 +13,19 @@
 
 	<h1>Books </h1>
 
+	
+	<b>2024</b>
+	<li>A Little History of the World - E.H. Gombrich
+	</li>
+	<br><br>
+
 	<b>2023</b>
 	<li>The Border Empire - Ralph Compton
 	<li>The Comfort Crisis: Embrace Discomfort To Reclaim Your Wild, Happy, Healthy Self - Michael Easter
 	<li>The Barcelona Complex: Lionel Messi and the Making - and UnMaking - of the Worlds Greatest Soccer Club - Simon Kuper
 	<li>Castaways of the Fying Dutchman - Brian Jacques
 	<li>Murtagh - Christopher Paolini
+	<li>The Richest Man in Babylon - George Samuel Clanson
 	</li>
 	<br><br>
 
