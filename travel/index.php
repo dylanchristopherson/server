@@ -11,7 +11,13 @@
 
 	<title>Travel</title>
 
-	<h1>2023</h1>
+	<h1>2024</h1>
+
+    <b>Zion - Traveling with Bethany, Bob, and Myra to Zion national park</b>
+
+    <p>To be determined!
+    
+    <h1>2023</h1>
 
 	<b>Colorado - Emma and Tony visit: Oct 12th to Oct 17th</b>
 	

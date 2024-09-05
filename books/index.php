@@ -15,7 +15,16 @@
 
 	
 	<b>2024</b>
+	<li>Hatch - Gary Paulsen
+	<li>The lightning Thief - Rick Riordan
+	<li>How cycling can save the world - Peter Walker
+	<li>Tailspin - John Armbruster
+	<li>Iron Flame - Rebecca Yarros
+	<li>Norse Mythology - Neil Gaiman
+	<li>Fourth Wing - Rebecca Yarros
 	<li>A Little History of the World - E.H. Gombrich
+	<li>The Ballad of Songbirds and Snakes - Suzanne Collins
+	<li>State of panic: a post-apocalyptic EMP survival thriller - Jack Hunt
 	</li>
 	<br><br>
 
