@@ -15,7 +15,9 @@
 
 	
 	<b>2024</b>
-	<li>Hatch - Gary Paulsen
+	<li>The Last Apprentice: Curse of the Bane - Joseph Delaney
+	<li>The Last Apprentice: Revenge of the witch - Joseph Delaney
+	<li>Hatchet - Gary Paulsen
 	<li>The lightning Thief - Rick Riordan
 	<li>How cycling can save the world - Peter Walker
 	<li>Tailspin - John Armbruster
